@@ -29,9 +29,15 @@ Here are some ideas to get you started:
 </p>
 
 <div align=center>
- <img src=https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ingu627.github.io/>
- <img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingu627/>
- <img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poeun627@gmail.com>
+ <a href="https://ingu627.github.io/">
+  <img src=https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ingu627.github.io/>
+ </a>
+ <a href="https://www.linkedin.com/in/ingu627/">
+  <img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingu627/>
+ </a>
+ <a href="mailto:rjsdudans@naver.com">
+  <img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsdudans@naver.com>
+ </a>
 </div>
 
 <div align=center>
