@@ -16,6 +16,11 @@ Here are some ideas to get you started:
  <h2 align="center">🙋‍♂️ Hi, I'm Hyunseok.</h2>
  <h3 align="center">I am very motivated to experience the world in so many different ways.</h3>
 </p>
+
+<div align=center>
+ <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fingu627&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false>
+</div>
+
 <h3 align = "center">github_commit</h3>
 
 <p align = "center">
@@ -63,6 +68,8 @@ Here are some ideas to get you started:
 <h4 align="center">Engineer Quality Management (2021.06) | Survey Analyst, Junior (2020.11) | Advanced Data Analytics Semi-Professional (2021.06) | Structured Query Language Developer (2021.10) | Artificial Intelligence of Things (2021.01) | DSAC Expert (2021.01) | Computer Specialist in Spreadsheet & Database Level-Ⅰ (2021.03) | Word Processor Specialist (2021.07) | 6-SIGMA Green Belt (2021.02) | Google Analytics Individual Qualification (2021.09)</h3>
 </p>
 
+<h2 align="center">💬 MORE INFO! </h2>
+
 <div align=center>
  <a href="https://ingu627.github.io/">
   <img src=https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ingu627.github.io/>
@@ -73,9 +80,5 @@ Here are some ideas to get you started:
  <a href="mailto:rjsdudans@naver.com">
   <img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsdudans@naver.com>
  </a>
-</div>
-
-<div align=center>
- <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fingu627&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false>
 </div>
 
