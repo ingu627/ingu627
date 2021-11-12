@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <h2 align="center">Hi, I'm Hyunseok.</h2>
+ <h2 align="center">🙋‍♂️ Hi, I'm Hyunseok.</h2>
  <h3 align="center">I am very motivated to experience the world in so many different ways.</h3>
 </p>
 <h3 align = "center">github_commit</h3>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-<h2 align="center">CERTIFICATES</h2>
+<h2 align="center">🏅 CERTIFICATES</h2>
 <h4 align="center">Engineer Quality Management (2021.06) | Survey Analyst, Junior (2020.11) | Advanced Data Analytics Semi-Professional (2021.06) | Structured Query Language Developer (2021.10) | Artificial Intelligence of Things (2021.01) | DSAC Expert (2021.01) | Computer Specialist in Spreadsheet & Database Level-Ⅰ (2021.03) | Word Processor Specialist (2021.07) | 6-SIGMA Green Belt (2021.02) | Google Analytics Individual Qualification (2021.09)</h3>
 </p>
 
