@@ -91,6 +91,9 @@ Here are some ideas to get you started:
  </a>
 </div>
 
+<br/>
+<br/>
+<br/>
 <h2>📚 Latest Blog Post</h2>
 
 
