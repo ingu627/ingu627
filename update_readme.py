@@ -105,7 +105,7 @@ Here are some ideas to get you started:
  </a>
 </div>
 
-<h2 align="center">📚 Latest Blog Post</h2>
+<h2>📚 Latest Blog Post</h2>
 
 
 """ 
