@@ -8,8 +8,6 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-  schedule: 
-        - cron: "0 0 */1 * *"
 
 jobs:
   build:
@@ -31,12 +29,12 @@ jobs:
         python update_readme.py 
     - name: Update README.md file 
       run: | 
-       git pull 
-       git add . 
-       git diff git 
-       config --local user.email "rjsdudans@naver.com" 
-       git config --local user.name "ingu627" 
-       git commit -m "Update README.md" 
-       git push
+        git pull 
+        git add . 
+        git diff git 
+        config --local user.email "rjsdudans@naver.com" 
+        git config --local user.name "ingu627" 
+        git commit -m "Update README.md" 
+        git push
 
 
