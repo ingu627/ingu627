@@ -104,6 +104,10 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsdudans@naver.com>
  </a>
 </div>
+
+<h2 align="center">📚 Latest Blog Post</h2>
+
+
 """ 
 
 readme_text = f"{markdown_text}{latest_blog_post_list}" 
