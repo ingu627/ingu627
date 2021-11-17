@@ -18,25 +18,25 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python 3.9
+    - name: Set up Python 3.7
       uses: actions/setup-python@v2
       with: 
-        python-version: 3.9
-   - name: Install dependencies 
-     run: | 
-     python -m pip install --upgrade pip 
-     pip install feedparser 
-   - name: Run Update Python Script 
-     run: | 
-     python update_readme.py 
-   - name: Update README.md file 
-   run: | 
-     git pull 
-     git add . 
-     git diff git 
-     config --local user.email "rjsdudans@naver.com" 
-     git config --local user.name "ingu627" 
-     git commit -m "Update README.md" 
-     git push
+        python-version: 3.7
+    - name: Install dependencies 
+      run: | 
+        python -m pip install --upgrade pip 
+        pip install feedparser 
+    - name: Run Update Python Script 
+      run: | 
+        python update_readme.py 
+    - name: Update README.md file 
+      run: | 
+       git pull 
+       git add . 
+       git diff git 
+       config --local user.email "rjsdudans@naver.com" 
+       git config --local user.name "ingu627" 
+       git commit -m "Update README.md" 
+       git push
 
 
