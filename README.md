@@ -91,7 +91,7 @@ Here are some ideas to get you started:
  </a>
 </div>
 
-<h2 align="center">📚 Latest Blog Post</h2>
+<h2>📚 Latest Blog Post</h2>
 
 
 [2021/11/16 - R 기초 ~ 심화 문법 총정리 (5) - 분석 모형 구축](https://ingu627.github.io/r/R_basic_to_pro_5/) <br>
