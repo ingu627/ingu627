@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2021/11/18 - Jupyter Notebook 단축키 모음](https://ingu627.github.io/tips/jupyter_shortcuts/) <br>
+[2021/11/18 - [케라스(keras) 이해] 6장. 텍스트와 시퀀스를 위한 딥러닝 (2)](https://ingu627.github.io/keras/keras_ch6_org_2/) <br>
+[2021/11/18 - Git Blog - POST 글 작성하는 방법](https://ingu627.github.io/git_blog/how_to_write/) <br>
+[2021/11/18 - [에러 해결 방법] cmd로 압축 해제하기 (zip, unzip)](https://ingu627.github.io/error/unzip/) <br>
 [2021/11/17 - R 기초 ~ 심화 문법 총정리 (7) - 분석 모형 구축](https://ingu627.github.io/r/R_basic_to_pro_7/) <br>
 [2021/11/16 - R 기초 ~ 심화 문법 총정리 (6) - 분석 모형 구축](https://ingu627.github.io/r/R_basic_to_pro_6/) <br>
-[2021/11/16 - R 기초 ~ 심화 문법 총정리 (5) - 분석 모형 구축](https://ingu627.github.io/r/R_basic_to_pro_5/) <br>
-[2021/11/15 - R 기초 ~ 심화 문법 총정리 (4) - 분석 모형 구축](https://ingu627.github.io/r/R_basic_to_pro_4/) <br>
-[2021/11/14 - 파이썬(python) 함수 기능 정리 - update](https://ingu627.github.io/python/python_func/) <br>
-[2021/11/14 - R 기초 ~ 심화 문법 총정리 (3) - 데이터 정제, 분석 모형 선택](https://ingu627.github.io/r/R_basic_to_pro_3/) <br>
