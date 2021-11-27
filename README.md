@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
-[2021/11/24 - 빅데이터 분석기사 - 2021년 2회 문제풀이](https://ingu627.github.io/r/solve_bigdata/) <br>
+[2021/11/24 - 빅데이터분석기사 - 2021년 2회 문제풀이](https://ingu627.github.io/r/solve_bigdata/) <br>
 [2021/11/23 - [케라스(keras) 이해] 7장. 딥러닝을 위한 고급 도구 (2)](https://ingu627.github.io/keras/keras_ch7_org_2/) <br>
 [2021/11/22 - Linux 기초 정리 (2)](https://ingu627.github.io/linux/linux_basic2/) <br>
 [2021/11/22 - Linux 기초 정리 (1)](https://ingu627.github.io/linux/linux_basic1/) <br>
