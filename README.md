@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2021/11/27 - 생산성 향상을 위한 VSCode extensions 12개 추천](https://ingu627.github.io/tips/vs_extension2/) <br>
+[2021/11/27 - 빅데이터 분석가를 위한 VSCode extensions 13개 추천](https://ingu627.github.io/tips/vs_extension1/) <br>
+[2021/11/27 - 빅데이터분석기사(R) - 제2유형 문제풀이 (1)](https://ingu627.github.io/r/solve_bigdata4/) <br>
+[2021/11/27 - OS - 운영체제란 무엇인가 (1)](https://ingu627.github.io/os/os1_ewha/) <br>
 [2021/11/26 - 빅데이터분석기사(R) - 제1유형 11문제 풀이 (2)](https://ingu627.github.io/r/solve_bigdata3/) <br>
 [2021/11/26 - 빅데이터분석기사(R) - 제1유형 10문제 풀이 (1)](https://ingu627.github.io/r/solve_bigdata2/) <br>
-[2021/11/24 - 빅데이터분석기사(R) - 2021년 2회 문제풀이](https://ingu627.github.io/r/solve_bigdata/) <br>
-[2021/11/23 - [케라스(keras) 이해] 7장. 딥러닝을 위한 고급 도구 (2)](https://ingu627.github.io/keras/keras_ch7_org_2/) <br>
-[2021/11/22 - Linux 기초 정리 (2)](https://ingu627.github.io/linux/linux_basic2/) <br>
-[2021/11/22 - Linux 기초 정리 (1)](https://ingu627.github.io/linux/linux_basic1/) <br>
