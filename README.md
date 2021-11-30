@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2021/11/28 - 윈도우10에서 리눅스(Linux) 설치하기 (Ubuntu)](https://ingu627.github.io/linux/install_ubuntu/) <br>
+[2021/11/28 - Git Blog에서 글 작성 시 수식 사용하기 (Mathjax)](https://ingu627.github.io/git_blog/mathjax_in_md/) <br>
 [2021/11/27 - 생산성 향상을 위한 VSCode extensions 12개 추천](https://ingu627.github.io/tips/vs_extension2/) <br>
 [2021/11/27 - 빅데이터 분석가를 위한 VSCode extensions 13개 추천](https://ingu627.github.io/tips/vs_extension1/) <br>
-[2021/11/27 - 빅데이터분석기사(R) - 제2유형 문제풀이 (1)](https://ingu627.github.io/r/solve_bigdata4/) <br>
+[2021/11/27 - 빅데이터분석기사(R) - 제2유형 문제풀이](https://ingu627.github.io/r/solve_bigdata4/) <br>
 [2021/11/27 - OS - 운영체제란 무엇인가 (1)](https://ingu627.github.io/os/os1_ewha/) <br>
-[2021/11/26 - 빅데이터분석기사(R) - 제1유형 11문제 풀이 (2)](https://ingu627.github.io/r/solve_bigdata3/) <br>
-[2021/11/26 - 빅데이터분석기사(R) - 제1유형 10문제 풀이 (1)](https://ingu627.github.io/r/solve_bigdata2/) <br>
