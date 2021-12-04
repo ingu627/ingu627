@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
-[2021/12/1 - 빅데이터분석기사(R) - 필답형 48문제 풀이](https://ingu627.github.io/r_ml/solve_bigdata5/) <br>
+[2021/12/2 - 빅데이터분석기사(R) - 필답형 48문제 풀이 (4)](https://ingu627.github.io/r_ml/solve_bigdata8/) <br>
+[2021/12/2 - 빅데이터분석기사(R) - 필답형 44문제 풀이 (3)](https://ingu627.github.io/r_ml/solve_bigdata7/) <br>
+[2021/12/1 - 빅데이터분석기사(R) - 필답형 39문제 풀이 (2)](https://ingu627.github.io/r_ml/solve_bigdata6/) <br>
+[2021/12/1 - 빅데이터분석기사(R) - 필답형 46문제 풀이 (1)](https://ingu627.github.io/r_ml/solve_bigdata5/) <br>
 [2021/11/30 - Linux 기초 정리 (5) - user, permission, group](https://ingu627.github.io/linux/life_coding_linux5/) <br>
 [2021/11/30 - Linux 기초 정리 (4) - process, daemon](https://ingu627.github.io/linux/life_coding_linux4/) <br>
-[2021/11/29 - 윈도우10에서 konlpy 설치하기](https://ingu627.github.io/tips/install_konlpy/) <br>
-[2021/11/29 - Ubuntu, Windows10에서 Git 설치하기](https://ingu627.github.io/tips/git_in_ubuntu/) <br>
-[2021/11/29 - Linux 기초 정리 (3) - directory, 파일찾는 법](https://ingu627.github.io/linux/life_coding_linux3/) <br>
