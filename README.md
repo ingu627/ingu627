@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
-[2021/12/16 - 자바(java) 문법 정리 (1)](https://ingu627.github.io/java/java_gr/) <br>
+[2021/12/16 - 자바(java) 문법 정리](https://ingu627.github.io/java/java_gr1/) <br>
 [2021/12/15 - [핸즈온 머신러닝] 10장. 케라스를 사용한 인공 신경망 소개 (1)](https://ingu627.github.io/hands_on/TDL1/) <br>
 [2021/12/13 - OS - System Structure & Program Execution (2)](https://ingu627.github.io/os/os2_ewha/) <br>
 [2021/12/7 - Google Analytics - UA/GA4의 차이](https://ingu627.github.io/git_blog/diff_UA_GA4/) <br>
