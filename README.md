@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2021/12/19 - vscode 설정 셋팅 초기화하기](https://ingu627.github.io/tips/initialize_vscode/) <br>
 [2021/12/16 - 자바(java) 문법 정리](https://ingu627.github.io/java/java_gr1/) <br>
-[2021/12/15 - [핸즈온 머신러닝] 10장. 케라스를 사용한 인공 신경망 소개 (1)](https://ingu627.github.io/hands_on/TDL1/) <br>
+[2021/12/15 - [핸즈온 머신러닝] 10장. 케라스를 사용한 인공 신경망 소개](https://ingu627.github.io/hands_on/TDL1/) <br>
 [2021/12/13 - OS - System Structure & Program Execution (2)](https://ingu627.github.io/os/os2_ewha/) <br>
 [2021/12/7 - Google Analytics - UA/GA4의 차이](https://ingu627.github.io/git_blog/diff_UA_GA4/) <br>
 [2021/12/4 - Linux 기초 정리 (6) - 인터넷, 네트워크, 서버](https://ingu627.github.io/linux/life_coding_linux6/) <br>
-[2021/12/2 - 빅데이터분석기사(R) - 필답형 48문제 풀이 (4)](https://ingu627.github.io/r_ml/solve_bigdata8/) <br>
