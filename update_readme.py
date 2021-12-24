@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <h2 align="center">🏅 CERTIFICATES</h2>
-<h4 align="center">Engineer Quality Management (2021.06) | Survey Analyst, Junior (2020.11) | Advanced Data Analytics Semi-Professional (2021.06) | Structured Query Language Developer (2021.10) | Artificial Intelligence of Things (2021.01) | DSAC Expert (2021.01) | Computer Specialist in Spreadsheet & Database Level-Ⅰ (2021.03) | Word Processor Specialist (2021.07) | 6-SIGMA Green Belt (2021.02) | Google Analytics Individual Qualification (2021.09)</h3>
+<h4 align="center"> Big-Data Analysis Engineer (2021.12) | Engineer Quality Management (2021.06) | Survey Analyst, Junior (2020.11) | Advanced Data Analytics Semi-Professional (2021.06) | Structured Query Language Developer (2021.10) | Artificial Intelligence of Things (2021.01) | DSAC Expert (2021.01) | Computer Specialist in Spreadsheet & Database Level-Ⅰ (2021.03) | Word Processor Specialist (2021.07) | 6-SIGMA Green Belt (2021.02) | Google Analytics Individual Qualification (2021.09)</h3>
 </p>
 
 <h2 align="center">💬 MORE INFO! </h2>
