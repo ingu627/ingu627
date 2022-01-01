@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2021/12/30 - OS - Deadlocks (7)](https://ingu627.github.io/os/os7_ewha/) <br>
 [2021/12/29 - [에러 해결 방법] 리눅스에서 파이썬 가상환경 설치안될 때](https://ingu627.github.io/error/venv_inLinux/) <br>
 [2021/12/29 - OS - Process Synchronization (6)](https://ingu627.github.io/os/os6_ewha/) <br>
 [2021/12/29 - 분산 시스템(Distributed Systems) - Introduction](https://ingu627.github.io/ds/Distributed_Systems1/) <br>
 [2021/12/28 - [핸즈온 머신러닝] 12장. 텐서플로를 사용한 사용자 정의 모델과 훈련](https://ingu627.github.io/hands_on/TDL3/) <br>
 [2021/12/28 - OS - CPU Scheduling (5)](https://ingu627.github.io/os/os5_ewha/) <br>
-[2021/12/28 - OS - Process Management (4)](https://ingu627.github.io/os/os4_ewha/) <br>
