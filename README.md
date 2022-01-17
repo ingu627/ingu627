@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/1/15 - 사회조사분석사 2급 필기, 필답형 정리 - 1. 조사방법론(2)](https://ingu627.github.io/survey_a/junior2/) <br>
+[2022/1/15 - 사회조사분석사 2급 필기, 필답형 정리 - 1. 조사방법론(1)](https://ingu627.github.io/survey_a/junior1/) <br>
 [2022/1/9 - [케라스(keras) 이해] 8장. 생성 모델을 위한 딥러닝](https://ingu627.github.io/keras/keras_ch8_org_1/) <br>
 [2022/1/8 - 분산 시스템(Distributed Systems) - Architectures](https://ingu627.github.io/ds/Distributed_Systems2/) <br>
 [2022/1/5 - [핸즈온 머신러닝] 13장. 텐서플로에서 데이터 적재와 전처리하기](https://ingu627.github.io/hands_on/TDL4/) <br>
 [2022/1/3 - 운영체제(OS) - Disk Management & Scheduling (11)](https://ingu627.github.io/os/os11_ewha/) <br>
-[2022/1/3 - 운영체제(OS) - File System Implementations (10)](https://ingu627.github.io/os/os10_ewha/) <br>
-[2022/1/2 - 운영체제(OS) - Virtual Memory (9)](https://ingu627.github.io/os/os9_ewha/) <br>
