@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/1/18 - 분산 시스템(Distributed Systems) - 책에 나온 영단어 정리](https://ingu627.github.io/englishword/words_in_ds/) <br>
 [2022/1/17 - 사회조사분석사 2급 필기, 필답형 정리 - 3. 사회통계(2)](https://ingu627.github.io/survey_a/junior5/) <br>
 [2022/1/16 - 사회조사분석사 2급 필기, 필답형 정리 - 3. 사회통계(1)](https://ingu627.github.io/survey_a/junior4/) <br>
 [2022/1/16 - 사회조사분석사 2급 필기, 필답형 정리 - 2. 조사방법론](https://ingu627.github.io/survey_a/junior3/) <br>
 [2022/1/15 - 사회조사분석사 2급 필기, 필답형 정리 - 1. 조사방법론(2)](https://ingu627.github.io/survey_a/junior2/) <br>
 [2022/1/15 - 사회조사분석사 2급 필기, 필답형 정리 - 1. 조사방법론(1)](https://ingu627.github.io/survey_a/junior1/) <br>
-[2022/1/9 - [케라스(keras) 이해] 8장. 생성 모델을 위한 딥러닝](https://ingu627.github.io/keras/keras_ch8_org_1/) <br>
