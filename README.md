@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/1/23 - 분산 시스템(Distributed Systems) - 3. Processes](https://ingu627.github.io/ds/Distributed_Systems3/) <br>
 [2022/1/21 - 데이터 중심 애플리케이션 설계 - 2. Data Models and Query Languages](https://ingu627.github.io/diapp/design2/) <br>
 [2022/1/20 - 데이터 중심 애플리케이션 설계 - 1. Reliable, Scalable, and Maintainable Applications](https://ingu627.github.io/diapp/design1/) <br>
-[2022/1/18 - 분산 시스템(Distributed Systems) - 책에 나온 영단어 정리](https://ingu627.github.io/englishword/words_in_ds/) <br>
+[2022/1/18 - Distributed Systems, designing data-intensive applications - 책에 나온 영단어 정리](https://ingu627.github.io/englishword/words_in_ds/) <br>
 [2022/1/17 - 사회조사분석사 2급 필기, 필답형 정리 - 3. 사회통계(2)](https://ingu627.github.io/survey_a/junior5/) <br>
 [2022/1/16 - 사회조사분석사 2급 필기, 필답형 정리 - 3. 사회통계(1)](https://ingu627.github.io/survey_a/junior4/) <br>
-[2022/1/16 - 사회조사분석사 2급 필기, 필답형 정리 - 2. 조사방법론](https://ingu627.github.io/survey_a/junior3/) <br>
