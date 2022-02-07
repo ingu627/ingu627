@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=IBM&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
