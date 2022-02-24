@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/2/22 - [에러 해결 방법]  ExecutableNotFound: failed to execute 'dot', make sure the Graphviz executables are on your systems' PATH 일때](https://ingu627.github.io/error/ExecutableNotFound_graphviz/) <br>
 [2022/2/5 - [신상현 영단어 리뷰] 영단어 접두사 총정리](https://ingu627.github.io/eng_gr/word_prefix/) <br>
 [2022/2/3 - 동사 빈출 단어들 & 품사 문법 정리](https://ingu627.github.io/eng_gr/top100_and_gr/) <br>
 [2022/1/26 - [에러 해결 방법]  tf.gradients is not supported when eager execution is enabled 일때](https://ingu627.github.io/error/tfgradients/) <br>
 [2022/1/23 - 분산 시스템(Distributed Systems) - 3. Processes](https://ingu627.github.io/ds/Distributed_Systems3/) <br>
 [2022/1/21 - 데이터 중심 애플리케이션 설계 - 2. Data Models and Query Languages](https://ingu627.github.io/diapp/design2/) <br>
-[2022/1/20 - 데이터 중심 애플리케이션 설계 - 1. Reliable, Scalable, and Maintainable Applications](https://ingu627.github.io/diapp/design1/) <br>
