@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/4/1 - [논문 리뷰] Learning under Concept Drift: an Overview](https://ingu627.github.io/paper/concept_drift/) <br>
 [2022/3/30 - 자바(java) 기반 객체 지향 프로그래밍(OOP) 용어 정리](https://ingu627.github.io/java/java_gr2/) <br>
 [2022/3/28 - [논문 리뷰] A Data Quality-Driven View of MLOps](https://ingu627.github.io/paper/data_quality_driven_mlops/) <br>
 [2022/3/28 - AlexNet 구조 파악 및 pytorch로 구현해보기](https://ingu627.github.io/code/alexnet_pytorch/) <br>
 [2022/3/27 - [핸즈온 머신러닝] 14장. 합성곱 신경망을 사용한 컴퓨터 비전 (1)](https://ingu627.github.io/hands_on/TDL5/) <br>
 [2022/3/19 - [2022최신] 텐서플로우(tensorflow), 파이토치(pytorch) GPU 설치 방법](https://ingu627.github.io/tips/install_cuda2/) <br>
-[2022/2/22 - [에러 해결 방법]  ExecutableNotFound: failed to execute 'dot', make sure the Graphviz executables are on your systems' PATH 일때](https://ingu627.github.io/error/ExecutableNotFound_graphviz/) <br>
