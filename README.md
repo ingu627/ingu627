@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/4/12 - [논문 리뷰] Deep Residual Learning for Image Recognition](https://ingu627.github.io/paper/ResNet/) <br>
 [2022/4/11 - Pytorch 기반 ResNet 전이 학습 구현해보기](https://ingu627.github.io/code/ResNet50_pytorch/) <br>
 [2022/4/10 - [핸즈온 머신러닝] 14장. 합성곱 신경망을 사용한 컴퓨터 비전 (2)](https://ingu627.github.io/hands_on/TDL6/) <br>
 [2022/4/1 - [논문 리뷰] Learning under Concept Drift: an Overview](https://ingu627.github.io/paper/concept_drift/) <br>
 [2022/3/30 - 자바(java) 기반 객체 지향 프로그래밍(OOP) 용어 정리](https://ingu627.github.io/java/java_gr2/) <br>
 [2022/3/28 - [논문 리뷰] A Data Quality-Driven View of MLOps](https://ingu627.github.io/paper/data_quality_driven_mlops/) <br>
-[2022/3/28 - AlexNet 구조 파악 및 PyTorch로 코드 구현해보기](https://ingu627.github.io/code/alexnet_pytorch/) <br>
