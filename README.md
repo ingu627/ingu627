@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/4/17 - Pytorch 기반 ResNet152 구조 처음부터 구현해보기](https://ingu627.github.io/code/ResNet_scratch_pytorch/) <br>
 [2022/4/14 - [논문 리뷰] Squeeze-and-Excitation Networks](https://ingu627.github.io/paper/SENet/) <br>
 [2022/4/13 - Pytorch 기반 LeNet 구현 및 데이터 증식된 CIFAR10 학습해보기](https://ingu627.github.io/code/LeNet_pytorch/) <br>
 [2022/4/13 - [논문 리뷰] High-Performance Large-Scale Image Recognition Without Normalization](https://ingu627.github.io/paper/NFResNet/) <br>
 [2022/4/12 - [논문 리뷰] Deep Residual Learning for Image Recognition](https://ingu627.github.io/paper/ResNet/) <br>
 [2022/4/11 - Pytorch 기반 ResNet 전이 학습 구현해보기](https://ingu627.github.io/code/ResNet50_pytorch/) <br>
-[2022/4/10 - [핸즈온 머신러닝] 14장. 합성곱 신경망을 사용한 컴퓨터 비전 (2)](https://ingu627.github.io/hands_on/TDL6/) <br>
