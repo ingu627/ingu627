@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/4/21 - [CS231n] 강의3. Loss Functions and Optimization (1) 리뷰](https://ingu627.github.io/cs231n/cnn2/) <br>
+[2022/4/21 - [CS231n] 강의3. Loss Functions and Optimization (2) 리뷰](https://ingu627.github.io/cs231n/cnn2_2/) <br>
+[2022/4/21 - [CS231n] 강의4. Neural Networks and Backpropagation 리뷰](https://ingu627.github.io/cs231n/cnn3/) <br>
+[2022/4/21 - [CS231n] 강의5. Convolutional Neural Networks 리뷰](https://ingu627.github.io/cs231n/cnn4/) <br>
+[2022/4/20 - [CS231n] 강의2. Image Classification 리뷰](https://ingu627.github.io/cs231n/cnn1/) <br>
 [2022/4/17 - Pytorch 기반 ResNet152 구조 처음부터 구현해보기](https://ingu627.github.io/code/ResNet_scratch_pytorch/) <br>
-[2022/4/14 - [논문 리뷰] Squeeze-and-Excitation Networks](https://ingu627.github.io/paper/SENet/) <br>
-[2022/4/13 - Pytorch 기반 LeNet 구현 및 데이터 증식된 CIFAR10 학습해보기](https://ingu627.github.io/code/LeNet_pytorch/) <br>
-[2022/4/13 - [논문 리뷰] High-Performance Large-Scale Image Recognition Without Normalization](https://ingu627.github.io/paper/NFResNet/) <br>
-[2022/4/12 - [논문 리뷰] Deep Residual Learning for Image Recognition](https://ingu627.github.io/paper/ResNet/) <br>
-[2022/4/11 - Pytorch 기반 ResNet 전이 학습 구현해보기](https://ingu627.github.io/code/ResNet50_pytorch/) <br>
