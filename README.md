@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/4/22 - [CS231n] 강의7. Training Neural Networks (1) Activation Function 리뷰](https://ingu627.github.io/cs231n/cnn6/) <br>
+[2022/4/22 - [CS231n] 강의7. Training Neural Networks (2) Part1 이어서 리뷰](https://ingu627.github.io/cs231n/cnn6_2/) <br>
+[2022/4/22 - [CS231n] 강의8. Training Neural Networks (3) Optimizer 리뷰](https://ingu627.github.io/cs231n/cnn7/) <br>
 [2022/4/21 - [CS231n] 강의3. Loss Functions and Optimization (1) 리뷰](https://ingu627.github.io/cs231n/cnn2/) <br>
 [2022/4/21 - [CS231n] 강의3. Loss Functions and Optimization (2) 리뷰](https://ingu627.github.io/cs231n/cnn2_2/) <br>
 [2022/4/21 - [CS231n] 강의4. Neural Networks and Backpropagation 리뷰](https://ingu627.github.io/cs231n/cnn3/) <br>
-[2022/4/21 - [CS231n] 강의5. Convolutional Neural Networks 리뷰](https://ingu627.github.io/cs231n/cnn4/) <br>
-[2022/4/20 - [CS231n] 강의2. Image Classification 리뷰](https://ingu627.github.io/cs231n/cnn1/) <br>
-[2022/4/17 - Pytorch 기반 ResNet152 구조 처음부터 구현해보기](https://ingu627.github.io/code/ResNet_scratch_pytorch/) <br>
