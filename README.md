@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/4/23 - [CS231n] 강의8. Training Neural Networks (4) Regularization, Hyperparameter 리뷰](https://ingu627.github.io/cs231n/cnn7_2/) <br>
+[2022/4/22 - [CS231n] 강의6. Hardware and Software with Pytorch 리뷰](https://ingu627.github.io/cs231n/cnn5/) <br>
 [2022/4/22 - [CS231n] 강의7. Training Neural Networks (1) Activation Function 리뷰](https://ingu627.github.io/cs231n/cnn6/) <br>
-[2022/4/22 - [CS231n] 강의7. Training Neural Networks (2) Part1 이어서 리뷰](https://ingu627.github.io/cs231n/cnn6_2/) <br>
+[2022/4/22 - [CS231n] 강의7. Training Neural Networks (2) Weight Initialization, Batch Normalization, Transfer Learning 리뷰](https://ingu627.github.io/cs231n/cnn6_2/) <br>
 [2022/4/22 - [CS231n] 강의8. Training Neural Networks (3) Optimizer 리뷰](https://ingu627.github.io/cs231n/cnn7/) <br>
 [2022/4/21 - [CS231n] 강의3. Loss Functions and Optimization (1) 리뷰](https://ingu627.github.io/cs231n/cnn2/) <br>
-[2022/4/21 - [CS231n] 강의3. Loss Functions and Optimization (2) 리뷰](https://ingu627.github.io/cs231n/cnn2_2/) <br>
-[2022/4/21 - [CS231n] 강의4. Neural Networks and Backpropagation 리뷰](https://ingu627.github.io/cs231n/cnn3/) <br>
