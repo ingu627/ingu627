@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/4/27 - Pytorch 기반 ResNeXt 구조 처음부터 구현해보기](https://ingu627.github.io/code/ResNeXt_scratch_pytorch/) <br>
+[2022/4/27 - [논문 리뷰] Aggregated Residual Transformations for Deep Neural Networks](https://ingu627.github.io/paper/ResNext/) <br>
 [2022/4/23 - [CS231n] 강의8. Training Neural Networks (4) Regularization, Hyperparameter 리뷰](https://ingu627.github.io/cs231n/cnn7_2/) <br>
 [2022/4/22 - [CS231n] 강의6. Hardware and Software with Pytorch 리뷰](https://ingu627.github.io/cs231n/cnn5/) <br>
 [2022/4/22 - [CS231n] 강의7. Training Neural Networks (1) Activation Function 리뷰](https://ingu627.github.io/cs231n/cnn6/) <br>
 [2022/4/22 - [CS231n] 강의7. Training Neural Networks (2) Weight Initialization, Batch Normalization, Transfer Learning 리뷰](https://ingu627.github.io/cs231n/cnn6_2/) <br>
-[2022/4/22 - [CS231n] 강의8. Training Neural Networks (3) Optimizer 리뷰](https://ingu627.github.io/cs231n/cnn7/) <br>
-[2022/4/21 - [CS231n] 강의3. Loss Functions and Optimization (1) 리뷰](https://ingu627.github.io/cs231n/cnn2/) <br>
