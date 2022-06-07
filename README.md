@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/6/5 - [논문 리뷰] Scalable Detection of Concept Drifts on Data Streams with Parallel Adaptive Windowing](https://ingu627.github.io/paper/parallel_adwin/) <br>
 [2022/6/4 - [논문 리뷰] Fast Hoeffding Drift Detection Method for Evolving Data Streams](https://ingu627.github.io/paper/FHDDM/) <br>
 [2022/6/4 - 호에프딩, 마르코브, 체비쇼프, 번스타인 부등식 정리](https://ingu627.github.io/statistics/inequality_for_detection/) <br>
-[2022/6/2 - Concept Drift Detection Method 정리](https://ingu627.github.io/mlops/drift_detection/) <br>
+[2022/6/2 - Concept Drift Detection Method 정리](https://ingu627.github.io/conceptdrift/drift_detection/) <br>
 [2022/5/31 - [Effective Python] 2장 리스트와 딕셔너리 리뷰](https://ingu627.github.io/python/effective_python2/) <br>
 [2022/5/27 - [논문 리뷰] Characterizing signal propagation to close the performance gap in unnormalized resnets](https://ingu627.github.io/paper/NFResnet/) <br>
-[2022/5/26 - [Effective Python] 1장 파이썬답게 생각하기 리뷰](https://ingu627.github.io/python/effective_python1/) <br>
