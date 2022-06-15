@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/6/13 - [CS231n] 강의11 Attention and Transformers (1) 리뷰](https://ingu627.github.io/cs231n/cnn9/) <br>
 [2022/6/12 - [CS231n] 강의10 Long Short Term Memory 리뷰](https://ingu627.github.io/cs231n/cnn8_2/) <br>
 [2022/6/11 - [CS231n] 강의10 Recurrent Neural Networks 리뷰](https://ingu627.github.io/cs231n/cnn8/) <br>
 [2022/6/5 - [논문 리뷰] Scalable Detection of Concept Drifts on Data Streams with Parallel Adaptive Windowing](https://ingu627.github.io/paper/parallel_adwin/) <br>
 [2022/6/4 - [논문 리뷰] Fast Hoeffding Drift Detection Method for Evolving Data Streams](https://ingu627.github.io/paper/FHDDM/) <br>
 [2022/6/4 - 호에프딩, 마르코브, 체비쇼프, 번스타인 부등식 정리](https://ingu627.github.io/statistics/inequality_for_detection/) <br>
-[2022/6/2 - Concept Drift Detection Method 정리](https://ingu627.github.io/conceptdrift/drift_detection/) <br>
