@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/7/10 - Pytorch Lightning + Wandb을 활용하여 mnist 예제 살펴보기](https://ingu627.github.io/code/pytorch_lightning_mnist/) <br>
 [2022/6/29 - [Effective Python] 3장 함수 리뷰](https://ingu627.github.io/python/effective_python3/) <br>
 [2022/6/14 - [CS231n] 강의11 Attention and Transformers (2) 리뷰](https://ingu627.github.io/cs231n/cnn9_2/) <br>
 [2022/6/13 - [CS231n] 강의11 Attention and Transformers (1) 리뷰](https://ingu627.github.io/cs231n/cnn9/) <br>
 [2022/6/12 - [CS231n] 강의10 Long Short Term Memory 리뷰](https://ingu627.github.io/cs231n/cnn8_2/) <br>
 [2022/6/11 - [CS231n] 강의9. Object Detection and Image Segmentation (1) 리뷰](https://ingu627.github.io/cs231n/cnn10/) <br>
-[2022/6/11 - [CS231n] 강의9. Object Detection and Image Segmentation (2) 리뷰](https://ingu627.github.io/cs231n/cnn10_2/) <br>
