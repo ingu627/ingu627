@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/7/29 - [논문 리뷰] Unsupervised Model Drift Estimation with Batch Normalization Statistics for Dataset Shift Detection and Model Selection 리뷰](https://ingu627.github.io/paper/MDE_w_BN/) <br>
 [2022/7/25 - [Effective Python] 4장 컴프리헨션과 제너레이터 리뷰](https://ingu627.github.io/python/effective_python4/) <br>
 [2022/7/17 - 도커(docker)를 이용해 파이썬 가상환경 구축을 위한 이미지 배포하기](https://ingu627.github.io/docker/docker_overview_venv/) <br>
 [2022/7/15 - 윈도우10에서 리눅스(Linux) 설치하기 (Ubuntu on WSL2)](https://ingu627.github.io/tips/install_ubuntu/) <br>
 [2022/7/11 - [2022최신] Ubuntu 20.04에서 nvidia driver, cuda, cudnn, pytorch 설치의 모든 것](https://ingu627.github.io/tips/install_cuda_linux/) <br>
 [2022/7/10 - Pytorch Lightning + Wandb을 활용하여 mnist 예제 살펴보기](https://ingu627.github.io/code/pytorch_lightning_mnist/) <br>
-[2022/6/29 - [Effective Python] 3장 함수 리뷰](https://ingu627.github.io/python/effective_python3/) <br>
