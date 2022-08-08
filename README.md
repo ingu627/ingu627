@@ -97,8 +97,8 @@ Here are some ideas to get you started:
 
 
 [2022/8/5 - [논문 리뷰] The Google File System(GFS) 리뷰 (1)](https://ingu627.github.io/paper/gfs1/) <br>
+[2022/8/5 - [논문 리뷰] The Google File System(GFS) 리뷰 (2)](https://ingu627.github.io/paper/gfs2/) <br>
 [2022/8/4 - 도커(docker) 환경 내 Hortonworks Data Platform(HDP) 설치하기](https://ingu627.github.io/tips/install_hdp/) <br>
 [2022/7/29 - [논문 리뷰] Unsupervised Model Drift Estimation with Batch Normalization Statistics for Dataset Shift Detection and Model Selection 리뷰](https://ingu627.github.io/paper/MDE_w_BN/) <br>
 [2022/7/25 - [Effective Python] 4장 컴프리헨션과 제너레이터 리뷰](https://ingu627.github.io/python/effective_python4/) <br>
 [2022/7/17 - 도커(docker)를 이용해 파이썬 가상환경 구축을 위한 이미지 배포하기](https://ingu627.github.io/docker/docker_overview_venv/) <br>
-[2022/7/15 - 윈도우10에서 리눅스(Linux) 설치하기 (Ubuntu on WSL2)](https://ingu627.github.io/tips/install_ubuntu/) <br>
