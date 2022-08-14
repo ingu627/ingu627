@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/8/12 - [Operating System Concepts 10th] 2. Operating System Structures 리뷰](https://ingu627.github.io/os/os2_10th1/) <br>
+[2022/8/11 - [Operating System Concepts 10th] 1. Introduction 리뷰 (1)](https://ingu627.github.io/os/os1_10th1/) <br>
+[2022/8/11 - [Operating System Concepts 10th] 1. Introduction 리뷰 (2)](https://ingu627.github.io/os/os1_10th2/) <br>
 [2022/8/10 - [논문 리뷰] MapReduce: Simplified Data Processing on Large Clusters 리뷰](https://ingu627.github.io/paper/mapreduce/) <br>
 [2022/8/5 - [논문 리뷰] The Google File System(GFS) 리뷰 (1)](https://ingu627.github.io/paper/gfs1/) <br>
 [2022/8/5 - [논문 리뷰] The Google File System(GFS) 리뷰 (2)](https://ingu627.github.io/paper/gfs2/) <br>
-[2022/8/4 - 도커(docker) 환경 내 Hortonworks Data Platform(HDP) 설치하기](https://ingu627.github.io/tips/install_hdp/) <br>
-[2022/7/29 - [논문 리뷰] Unsupervised Model Drift Estimation with Batch Normalization Statistics for Dataset Shift Detection and Model Selection 리뷰](https://ingu627.github.io/paper/MDE_w_BN/) <br>
-[2022/7/25 - [Effective Python] 4장 컴프리헨션과 제너레이터 리뷰](https://ingu627.github.io/python/effective_python4/) <br>
