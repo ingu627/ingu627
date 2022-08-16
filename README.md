@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/8/14 - [논문 리뷰] Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing 리뷰 (2)](https://ingu627.github.io/paper/rdd2/) <br>
 [2022/8/13 - [Operating System Concepts 10th] 3. Processes 리뷰 (1)](https://ingu627.github.io/os/os3_10th1/) <br>
 [2022/8/13 - [Operating System Concepts 10th] 3. Processes 리뷰 (2)](https://ingu627.github.io/os/os3_10th2/) <br>
+[2022/8/13 - [논문 리뷰] Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing 리뷰 (1)](https://ingu627.github.io/paper/rdd1/) <br>
 [2022/8/12 - [Operating System Concepts 10th] 2. Operating System Structures 리뷰](https://ingu627.github.io/os/os2_10th1/) <br>
 [2022/8/11 - [Operating System Concepts 10th] 1. Introduction 리뷰 (1)](https://ingu627.github.io/os/os1_10th1/) <br>
-[2022/8/11 - [Operating System Concepts 10th] 1. Introduction 리뷰 (2)](https://ingu627.github.io/os/os1_10th2/) <br>
-[2022/8/10 - [논문 리뷰] MapReduce: Simplified Data Processing on Large Clusters 리뷰](https://ingu627.github.io/paper/mapreduce/) <br>
