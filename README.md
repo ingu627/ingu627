@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/8/22 - [Spark] 빅데이터와 아파치 스파크란](https://ingu627.github.io/spark/spark_db1/) <br>
+[2022/8/22 - [Spark] DataFrame, 스키마, sql, 계보에 대한 정의 및 예제](https://ingu627.github.io/spark/spark_db2/) <br>
 [2022/8/17 - [Operating System Concepts 10th] 5. CPU Scheduling 리뷰 (1)](https://ingu627.github.io/os/os5_10th1/) <br>
 [2022/8/17 - [Operating System Concepts 10th] 5. CPU Scheduling 리뷰 (2)](https://ingu627.github.io/os/os5_10th2/) <br>
 [2022/8/16 - [Operating System Concepts 10th] 4. Threads &amp; Concurrency 리뷰](https://ingu627.github.io/os/os4_10th1/) <br>
 [2022/8/14 - [논문 리뷰] Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing 리뷰 (2)](https://ingu627.github.io/paper/rdd2/) <br>
-[2022/8/13 - [Operating System Concepts 10th] 3. Processes 리뷰 (1)](https://ingu627.github.io/os/os3_10th1/) <br>
-[2022/8/13 - [Operating System Concepts 10th] 3. Processes 리뷰 (2)](https://ingu627.github.io/os/os3_10th2/) <br>
