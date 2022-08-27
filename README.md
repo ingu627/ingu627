@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/8/25 - [Operating System Concepts 10th] 7. Synchronization Examples 리뷰](https://ingu627.github.io/os/os7_10th1/) <br>
+[2022/8/25 - [Spark] 구조적 API: DataFrame, SQL, Dataset 알아보기](https://ingu627.github.io/spark/spark_db4/) <br>
 [2022/8/24 - [Spark] dataset, 구조적 스트리밍, 머신러닝, RDD 기능들 쉽게 이해하기](https://ingu627.github.io/spark/spark_db3/) <br>
 [2022/8/23 - [Operating System Concepts 10th] 6. Synchronization Tools 리뷰](https://ingu627.github.io/os/os6_10th1/) <br>
 [2022/8/22 - [Spark] 빅데이터와 아파치 스파크란](https://ingu627.github.io/spark/spark_db1/) <br>
 [2022/8/22 - [Spark] DataFrame, 스키마, sql, 계보에 대한 정의 및 예제](https://ingu627.github.io/spark/spark_db2/) <br>
-[2022/8/17 - [Operating System Concepts 10th] 5. CPU Scheduling 리뷰 (1)](https://ingu627.github.io/os/os5_10th1/) <br>
-[2022/8/17 - [Operating System Concepts 10th] 5. CPU Scheduling 리뷰 (2)](https://ingu627.github.io/os/os5_10th2/) <br>
