@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 [2022/9/3 - 터미널 내 도커(docker) 컨테이너 명령어, 옵션 정리](https://ingu627.github.io/docker/docker_command/) <br>
 [2022/8/31 - [Spark] 날짜, 타임스탬프, null, 정렬, JSON 등의 데이터 타입 다루기](https://ingu627.github.io/spark/spark_db8/) <br>
+[2022/8/31 - [Spark] 집계 연산, 함수, SQL의 명령어 정리](https://ingu627.github.io/spark/spark_db9/) <br>
 [2022/8/30 - [Spark] 불리언, 수치, 문자, 정규 표현식 등의 데이터 타입 다루기](https://ingu627.github.io/spark/spark_db7/) <br>
 [2022/8/28 - [논문 리뷰] Kafka: a Distributed Messaging System for Log Processing 리뷰](https://ingu627.github.io/paper/kafka/) <br>
 [2022/8/27 - [Operating System Concepts 10th] 8. Deadlocks 리뷰](https://ingu627.github.io/os/os8_10th1/) <br>
-[2022/8/26 - [Spark] 구조적 API: DataFrame의 transformation 다루는 방법](https://ingu627.github.io/spark/spark_db6/) <br>
