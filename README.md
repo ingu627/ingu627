@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/9/7 - [Operating System Concepts 10th] 9. Main Memory 리뷰 (1)](https://ingu627.github.io/os/os9_10th1/) <br>
 [2022/9/5 - 우분투(Ubuntu) 22.04 테마부터 필수 프로그램 설치까지 모든 것](https://ingu627.github.io/tips/ubuntu2204/) <br>
 [2022/9/5 - Window10 또는 Ubuntu 22.04 내 도커(docker) 설치하기](https://ingu627.github.io/tips/install_docker/) <br>
 [2022/9/3 - 터미널 내 도커(docker) 컨테이너 명령어, 옵션 정리](https://ingu627.github.io/docker/docker_command/) <br>
 [2022/9/2 - [Spark] 조인(join) 표현식, 타입 정리](https://ingu627.github.io/spark/spark_db11/) <br>
 [2022/9/1 - [Spark] 그룹화, 롤업, 큐브, 피벗 정리](https://ingu627.github.io/spark/spark_db10/) <br>
-[2022/8/31 - [Spark] 날짜, 타임스탬프, null, 정렬, JSON 등의 데이터 타입 다루기](https://ingu627.github.io/spark/spark_db8/) <br>
