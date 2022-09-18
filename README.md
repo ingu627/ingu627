@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 [2022/9/11 - [Operating System Concepts 10th] 10. Virtual Memory 리뷰 (1)](https://ingu627.github.io/os/os10_10th1/) <br>
 [2022/9/11 - [Operating System Concepts 10th] 10. Virtual Memory 리뷰 (2)](https://ingu627.github.io/os/os10_10th2/) <br>
+[2022/9/8 - [Spark] Dataset와 관련 기능 정리](https://ingu627.github.io/spark/spark_db17/) <br>
 [2022/9/7 - [Operating System Concepts 10th] 9. Main Memory 리뷰 (1)](https://ingu627.github.io/os/os9_10th1/) <br>
 [2022/9/7 - [Operating System Concepts 10th] 9. Main Memory 리뷰 (2)](https://ingu627.github.io/os/os9_10th2/) <br>
 [2022/9/7 - [Spark] 스파크 SQL - 데이터베이스, 함수, 서브쿼리](https://ingu627.github.io/spark/spark_db16/) <br>
-[2022/9/6 - [Spark] 스파크 SQL - 실행방법, 테이블, 뷰](https://ingu627.github.io/spark/spark_db15/) <br>
