@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/9/23 - [Spark] GraphFrame을 활용한 그래프 알고리즘 예제](https://ingu627.github.io/spark/spark_graph2/) <br>
+[2022/9/22 - [Spark] GraphFrame을 활용한 그래프, 서브그래프, 모티프](https://ingu627.github.io/spark/spark_graph1/) <br>
 [2022/9/19 - [논문 리뷰] Pregel: A System for Large-Scale Graph Processing](https://ingu627.github.io/paper/pregel/) <br>
 [2022/9/16 - [Spark] 저수준 API: 키-값 형태의 RDD 고급 연산](https://ingu627.github.io/spark/spark_db19/) <br>
 [2022/9/15 - [Spark] 저수준 API: RDD 이해하기](https://ingu627.github.io/spark/spark_db18/) <br>
 [2022/9/11 - [Operating System Concepts 10th] 10. Virtual Memory 리뷰 (1)](https://ingu627.github.io/os/os10_10th1/) <br>
-[2022/9/11 - [Operating System Concepts 10th] 10. Virtual Memory 리뷰 (2)](https://ingu627.github.io/os/os10_10th2/) <br>
-[2022/9/8 - [Spark] 스칼라를 이용한 Dataset 관련 기능 정리](https://ingu627.github.io/spark/spark_db17/) <br>
