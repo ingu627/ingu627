@@ -97,8 +97,8 @@ Here are some ideas to get you started:
 
 
 [2022/9/25 - [Hadoop] 아파치 YARN에 대한 기초](https://ingu627.github.io/hadoop/yarn/) <br>
+[2022/9/25 - [Spark] 클러스터에서 스파크 실행하기](https://ingu627.github.io/spark/spark_db21/) <br>
 [2022/9/23 - [Spark] GraphFrame을 활용한 그래프 알고리즘 예제](https://ingu627.github.io/spark/spark_graph2/) <br>
 [2022/9/22 - [Spark] GraphFrame을 활용한 그래프, 서브그래프, 모티프](https://ingu627.github.io/spark/spark_graph1/) <br>
 [2022/9/20 - [Spark] 저수준 API: 분산형 공유 변수](https://ingu627.github.io/spark/spark_db20/) <br>
 [2022/9/19 - [논문 리뷰] Pregel: A System for Large-Scale Graph Processing](https://ingu627.github.io/paper/pregel/) <br>
-[2022/9/16 - [Spark] 저수준 API: 키-값 형태의 RDD 고급 연산](https://ingu627.github.io/spark/spark_db19/) <br>
