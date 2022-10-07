@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/10/5 - 노트북 터치패드 제스처 사용법](https://ingu627.github.io/tips/touchpad/) <br>
 [2022/9/27 - [논문 리뷰] GraphX: Graph Processing in a Distributed Dataflow Framework](https://ingu627.github.io/paper/graphx/) <br>
 [2022/9/25 - [Hadoop] 아파치 YARN에 대한 기초](https://ingu627.github.io/hadoop/yarn/) <br>
 [2022/9/25 - [Spark] 클러스터에서 스파크 실행하기](https://ingu627.github.io/spark/spark_db21/) <br>
 [2022/9/23 - [Spark] GraphFrame을 활용한 그래프 알고리즘 예제](https://ingu627.github.io/spark/spark_graph2/) <br>
 [2022/9/22 - [Spark] GraphFrame을 활용한 그래프, 서브그래프, 모티프](https://ingu627.github.io/spark/spark_graph1/) <br>
-[2022/9/20 - [Spark] 저수준 API: 분산형 공유 변수](https://ingu627.github.io/spark/spark_db20/) <br>
