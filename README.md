@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/10/13 - [논문 리뷰] Quasar: Resource-Efficient and QoS-Aware Cluster Management](https://ingu627.github.io/paper/quasar/) <br>
 [2022/10/9 - [논문 리뷰] PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://ingu627.github.io/paper/powergraph/) <br>
 [2022/10/7 - [논문 리뷰] Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud](https://ingu627.github.io/paper/graphLab/) <br>
 [2022/10/7 - [Effective Python] 5장 클래스와 인터페이스 리뷰](https://ingu627.github.io/python/effective_python5/) <br>
 [2022/10/5 - 윈도우10 노트북 정밀터치패드 제스처 사용법](https://ingu627.github.io/tips/touchpad/) <br>
 [2022/9/27 - [논문 리뷰] GraphX: Graph Processing in a Distributed Dataflow Framework](https://ingu627.github.io/paper/graphx/) <br>
-[2022/9/25 - [Hadoop] 아파치 YARN에 대한 기초](https://ingu627.github.io/hadoop/yarn/) <br>
