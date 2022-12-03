@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 <h2>📚 Latest Blog Post</h2>
 
 
+[2022/11/30 - [Spark] pyspark를 이용한 간단한 추천 시스템 만들어보기](https://ingu627.github.io/spark/spark_recommender/) <br>
 [2022/11/28 - [Spark] 스트림 처리 및 정형 스트리밍의 기초 개념 정리](https://ingu627.github.io/spark/spark_streaming1/) <br>
 [2022/11/28 - [Spark] 아파치 카프카를 이용한 정형 스트리밍 예제](https://ingu627.github.io/spark/spark_streaming2/) <br>
 [2022/11/26 - [논문 리뷰] Annotating Columns with Pre-trained Language Models](https://ingu627.github.io/paper/doduo/) <br>
 [2022/10/13 - [논문 리뷰] Quasar: Resource-Efficient and QoS-Aware Cluster Management](https://ingu627.github.io/paper/quasar/) <br>
 [2022/10/9 - [논문 리뷰] PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://ingu627.github.io/paper/powergraph/) <br>
-[2022/10/7 - [논문 리뷰] Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud](https://ingu627.github.io/paper/graphLab/) <br>
