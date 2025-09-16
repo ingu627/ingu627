@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AI%20Engineer&textBg=false>
+  <h3 align="center">I love solving real-world problems with AI.</h3>
 </p>
 
-<p align="center">
- <h2 align="center">🙋‍♂️ Hi, I'm Hyunseok.</h2>
- <h3 align="center">I love solving real-world problems with AI.</h3>
-</p>
+
 
 <!--
 <div align=center>
@@ -35,11 +33,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ingu627&show_icons=true&theme=radical">
 </p>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
-
-<p align="center">
-<h2 align="center">🏅 CERTIFICATES</h2>
-<h4 align="center"> Big-Data Analysis Engineer (2021.12) | Engineer Quality Management (2021.06) | Survey Analyst, Junior (2020.11) | Advanced Data Analytics Semi-Professional (2021.06) | Structured Query Language Developer (2021.10) | Artificial Intelligence of Things (2021.01) | DSAC Expert (2021.01) | Computer Specialist in Spreadsheet & Database Level-Ⅰ (2021.03) | Word Processor Specialist (2021.07) | 6-SIGMA Green Belt (2021.02) | Azure AI Fundamentals (2021.12) | Azure Fundamentals (2022.01) | Azure Data Fundamentals (2022.03) | Google Analytics Individual Qualification (2021.09)</h3>
-</p>
 
 <h2 align="center">💬 MORE INFO! </h2>
 
