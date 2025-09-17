@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AI%20Engineer&textBg=false>
   <h3 align="center">I love solving real-world problems with AI.</h3>
 </p>
 
