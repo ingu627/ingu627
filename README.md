@@ -1,51 +1,51 @@
+<h1 align="center">Hi there, I'm Ingu (Hyunseok)! 👋</h1>
 
-<!--
-**ingu627/ingu627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🤖 Solid AI Infrastructure Engineer Aiming for 99.9% Availability</h3>
 
 <p align="center">
-  <h3 align="center">I love solving real-world problems with AI.</h3>
+  <a href="https://ingu627.github.io/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tech Blog"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ingu627/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ingu627@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
-
-
-
-<!--
-<div align=center>
- <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fingu627&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false>
-</div>
--->
-
-<h2 align="center">💎 Github Commit</h2>
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingu627&show_icons=true&theme=radical">
-</p>
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
-
-<h2 align="center">💬 MORE INFO! </h2>
-
-<div align=center>
- <a href="https://ingu627.github.io/">
-  <img src=https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ingu627.github.io/>
- </a>
- <a href="https://www.linkedin.com/in/ingu627/">
-  <img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingu627/>
- </a>
- <a href="mailto:rjsdudans@naver.com">
-  <img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsdudans@naver.com>
- </a>
-</div>
 
 <br/>
 
+## 👨‍💻 About Me
+- 🔭 I’m currently focusing on building **Enterprise AI architectures and Multi-Agent systems** using MCP and LangGraph.
+- 🌱 I’m deeply interested in **LLM Optimization, HPC resource management, and Cloud Native MSA**.
+- 💼 I have robust experience in developing **Modular/Hybrid RAG systems**, secure closed-network AI infrastructures, and scalable data pipelines.
+- 💬 Ask me about **LangChain, MLOps, Distributed Systems, and AI Agent workflows**.
+- ⚡ Fun fact: I love solving complex real-world problems by turning fragmented data silos into unified, intelligent architectures.
+
+<br/>
+
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-0098FF?style=flat-square&logo=Databases&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=MicrosoftAzure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ingu627&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingu627&layout=compact&theme=radical" alt="Top Languages" />
+</div>
