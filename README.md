@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ingu (Hyunseok)! 👋</h1>
+<h1 align="center">Hi there, I'm Hyunseok! 👋</h1>
 
-<h3 align="center">🤖 Solid AI Infrastructure Engineer Aiming for 99.9% Availability</h3>
+<h3 align="center">🤖 AI Engineer Building Scalable & Production-Ready AI Systems</h3>
 
 <p align="center">
   <a href="https://ingu627.github.io/">
@@ -17,11 +17,11 @@
 <br/>
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently focusing on building **Enterprise AI architectures and Multi-Agent systems** using MCP and LangGraph.
-- 🌱 I’m deeply interested in **LLM Optimization, HPC resource management, and Cloud Native MSA**.
-- 💼 I have robust experience in developing **Modular/Hybrid RAG systems**, secure closed-network AI infrastructures, and scalable data pipelines.
-- 💬 Ask me about **LangChain, MLOps, Distributed Systems, and AI Agent workflows**.
-- ⚡ Fun fact: I love solving complex real-world problems by turning fragmented data silos into unified, intelligent architectures.
+- 🔭 I’m currently focusing on developing **Multi-Agent systems** and **Enterprise AI applications** using MCP and LangGraph.
+- 🌱 I’m deeply interested in **LLM Optimization, Modular RAG architectures, and Distributed Systems**.
+- 💼 As an AI Engineer, I specialize in building intelligent AI workflows, **and I also architect the secure, high-availability cloud infrastructure (AWS/Azure) to run them in production.**
+- 💬 Ask me about **LangChain, MLOps, LLM Fine-tuning, and Cloud Native MSA**.
+- ⚡ Fun fact: I love bridging the gap between cutting-edge AI models and robust software engineering.
 
 <br/>
 
@@ -49,3 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ingu627&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingu627&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+<br/>
+
+## 📝 Latest Blog Posts
